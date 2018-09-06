@@ -1,6 +1,6 @@
 scenario 'Adding two integers', {
     given 'two integer values of 1 and 2', {
-        a = 1
+        a = 2
         b = 2
     }
     when 'we calculate the sum of the two values', {
